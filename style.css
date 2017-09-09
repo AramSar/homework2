@@ -1,0 +1,61 @@
+ *{background-color: black;
+ 	color:ivory;}
+ 	body{margin:0;
+ 		padding:0;}
+.general h1{	width: 100%;
+	height: 100%;
+	min-height: 180px;
+	text-overflow: auto;
+	top: 0px;
+	left:0;
+	right:0;
+	height: 130px;
+	font-family:"Indie Flower", serif;
+	font-size: 600% ;
+	color: #f5ddf3;
+	box-sizing: border-box;
+	background-attachment:fixed;
+	text-align: center;
+  	margin: 0px 0px;
+  	padding: 24px 0px;
+  	line-height: 1em;
+	background: url(http://3t7bol18ef963l8x6yzv7ja1-wpengine.netdna-ssl.com/wp-content/uploads/1800x682-firstproglang-header-SWG.jpg);
+	background-size: cover;
+	position: relative;
+	overflow-y: auto;
+	position: relative;
+	display: block;
+
+}
+
+.general h2 { 
+	position: relative;
+	top:500px;
+	z-index: 0;
+
+	color: ivory;
+	font-size: 100%;
+	float:right;
+
+}
+.info{
+	font-family: "Pacifico", sans-serif;
+	font-size: 140%;
+	letter-spacing:0.1em;
+}
+
+#learnmore{
+
+	display:inline;
+	color: green;
+}
+
+#but{
+	font-size: 100%;
+	padding:auto;
+	left: 550px;
+	position:relative;
+	margin-top: 80px;
+	height:110px;
+
+}
