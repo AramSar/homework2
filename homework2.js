@@ -1,7 +1,7 @@
 	console.log(" Hope you like this!!! ");
 	console.log(" Have a nice day ");
 	function transform() {
-		var binary = prompt("Write a binary number and you will see what it is in decimal");
+		var binary = prompt("Write a binary number");
 		var binary2= prompt("Enter another one")
 	 document.write("Your 1st binary number in decimal is  ",   parseInt(binary, 2), ".");
 	 document.write("Your 2nd binary number in decimal is  ",   parseInt(binary2, 2), ".");
